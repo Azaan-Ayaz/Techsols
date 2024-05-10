@@ -7,7 +7,7 @@ import { EngineeringProducts } from './pages/services/products & solutions/engin
 import Software from './pages/services/products & solutions/softwareLicense'
 import ItProduct from './pages/services/products & solutions/itProduct'
 // import MarketingServices from './pages/services/professional Services/marketingServices'
-import ProfessionalServices from './pages/services/professional Services/marketingServices'
+import ProfessionalServices from './pages/services/professional Services/professionalService'
 // import {EngineeringProducts} from "./pages/services/products & solutions"
 
 const Router = () => {
